@@ -3,6 +3,7 @@
         "MONGO_USER": "dmatuzka",
         "MONGO_PASSWORD": "iPzebswn1kc70Zgb",
         "MONGO_DEFAULT_DATABASE": "shop",
-        "STRIPE_KEY": "sk_test_51Pk62HP7faIlOSjvgglDZLa9CYEdJEUXRNGbWahiu5OLhwXu4V0V0KXVL5Ls5HGJT9Q3gVJQfbouA8VcoNsfkUz400knBaHRJL"
+        "STRIPE_KEY": "sk_test_51Pk62HP7faIlOSjvgglDZLa9CYEdJEUXRNGbWahiu5OLhwXu4V0V0KXVL5Ls5HGJT9Q3gVJQfbouA8VcoNsfkUz400knBaHRJL",
+        "SENDGRID_KEY": "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"
     }
 }
