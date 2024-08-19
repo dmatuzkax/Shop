@@ -1,0 +1,9 @@
+dist/
+coverage/
+node_modules/
+
+/images/
+
+nodemon.js
+server.key
+server.cert
