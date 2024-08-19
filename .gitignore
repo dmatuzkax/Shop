@@ -4,6 +4,6 @@ node_modules/
 
 /images/
 
-nodemon.js
+nodemon.json
 server.key
 server.cert
